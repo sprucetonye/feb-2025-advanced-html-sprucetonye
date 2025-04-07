@@ -1,0 +1,38 @@
+
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+tr:nth-child(even){
+    background-color: #f9f9f9;
+}
+
+h2{
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.form-question h3{
+    text-align: center;
+    background-color: aliceblue;
+}
+
+
+footer{
+    text-align: center;
+    background-color: rgb(56, 98, 134);
+    color: white;
+}
